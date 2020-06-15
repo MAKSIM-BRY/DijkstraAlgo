@@ -1,0 +1,30 @@
+{
+    "Paris": {
+        "Bordeaux": 500,
+        "Lyon": 350,
+        "Clermont": 300
+    },
+    "Bordeaux": {
+        "Paris": 500,
+        "Toulouse": 250
+    },
+    "Toulouse": {
+        "Bordeaux": 250,
+        "Marseille":300
+    },
+    "Marseille": {
+        "Toulouse": 300,
+        "Clermont": 400,
+        "Lyon": 300
+    },
+    "Lyon": {
+        "Paris": 350,
+        "Marseille": 400,
+        "Clermont": 150
+    },
+    "Clermont": {
+        "Paris": 300,
+        "Marseille": 400,
+        "Lyon": 150
+    }
+}
